@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c3ae80139e94af46be7927921d2b103, type: 3}
+  m_Name: ShootState
+  m_EditorClassIdentifier: 
+  action:
+  - {fileID: 11400000, guid: be98b0306c17fcf4d8b540f1d7338730, type: 2}
+  transitions:
+  - {fileID: 11400000, guid: 0bea5cafd0f2ade4a9a8c25fe3b14337, type: 2}
+  - {fileID: 11400000, guid: c2ea9e722373a754e919df70d9c4a329, type: 2}
+  - {fileID: 11400000, guid: 2d58d551d5cdc5d439001a4c5ae6a1e7, type: 2}
